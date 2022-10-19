@@ -1,1 +1,1 @@
-- [Live Preview](https://github.com/ciprianchesa/Passenger_Counter_App)
+- [Live Preview](https://ciprianchesa.github.io/passenger_counter_app/)
